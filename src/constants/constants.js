@@ -13,8 +13,8 @@ export const projects = [
     description:"This application is built using React, Redux, Styled Components, Sass, Graph QL",
     image: '/images/2.png',
     tags: ['React', 'JavaScript'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    source: 'https://kwaku-clothes.herokuapp.com/',
+    visit: 'https://github.com/Isaac7app/kwaku-clothens',
     id: 1,
   },
   {
