@@ -38,9 +38,9 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: 'Started my journey', },
-  { year: 2018, text: 'Worked as a freelance developer', },
-  { year: 2019, text: 'Founded JavaScript Mastery', },
-  { year: 2020, text: 'Shared my projects with the world', },
-  { year: 2021, text: 'Started my own platform', },
+  { year: 2019, text: 'Started my journey', },
+  { year: 2020, text: 'Studied a udemy course on web development(ZTM)', },
+  { year: 2020, text: 'Learned programing in C# with Malmö University', },
+  { year: 2020, text: 'studied video game production with Luleå University', },
+  { year: 2021, text: 'Join FooCoding Intensive Course on web development', },
 ];
