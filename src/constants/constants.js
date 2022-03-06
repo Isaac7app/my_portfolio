@@ -10,7 +10,7 @@ export const projects = [
   },
   {
     title: 'E-Commerce',
-    description:"This application is built using React, Redux, Styled Components, Sass, Graph QL",
+    description:"This application is built using React, Redux, Styled Components, Sass, Graph QL.This app is full-stack with the back-end handled with firebase. ",
     image: '/images/2.png',
     tags: ['React', 'JavaScript'],
     source: 'https://kwaku-clothes.herokuapp.com/',
